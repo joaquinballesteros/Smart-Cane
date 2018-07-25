@@ -1,0 +1,21 @@
+<b>Sensor Board for Smart Cane</b>
+<p>
+This sensor board connect 2 force sensor resistors (FSR) to a MCU using a current to voltage converter for each sensor. This signal are added using an operational amplifier in a non-inverter added configuration. These sensors are supplied at -3.3V through a charger pump. This board is supplied at +3.3V. 
+<p>
+<i>List of components</i>
+<p>
+- 2x Force Sensor Resistor
+<p>
+- 1x Quad Array Rail-to-Rail Op Amps
+<p>
+- 1x Charger Pump DC-to-DC voltage converter
+<p>
+- 2x 2.4kΩ Resistor
+<p>
+- 2x 200Ω Resistor
+<p>
+- 1x 100Ω Resistor
+<p>
+- 2x 10μF Capacitor
+<p>
+<b>See <a href="https://github.com/joaquinballesteros/Smart-Cane">Smart-Cane in GitHub</a></b>
