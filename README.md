@@ -1,6 +1,9 @@
 # Smart Cane
 
-Smart-cane is an open hardware and open software project created to promoting an active ageing. This project was created on Integrated Systems Engineering group, on Department of Electronic Technology (Malaga University). It is led by [Dr. Ballesteros](https://www.researchgate.net/profile/Joaquin_Ballesteros) and it count with the help [M.Sc. Alberto Tudela](https://duma.uma.es/duma/buscador/persona/535571bb-1da1-4cbd-a49a-7b0d61c4cd2d/), [B.Sc. Juan Caro](...) and [Prof. Dr. Cristina Urdiales](https://www.researchgate.net/profile/Cristina_Urdiales2) 
+Smart-cane is an open hardware and open software project created to promoting an active ageing. This project was created on Integrated Systems Engineering group, on Department of Electronic Technology (Malaga University). It is led by [Dr. Ballesteros](https://www.researchgate.net/profile/Joaquin_Ballesteros) and it counts with the help [M.Sc. Alberto Tudela](https://duma.uma.es/duma/buscador/persona/535571bb-1da1-4cbd-a49a-7b0d61c4cd2d/), [B.Sc. Juan Caro](...) and [Prof. Dr. Cristina Urdiales](https://www.researchgate.net/profile/Cristina_Urdiales2).
+
+This project is focused on adding on-board sensors to the cane. These sensors should be affordable in order to reduce the cost and to increase the number of end users. Force sensors and hall effect sensors are being testing to measure the weight bearing and other significant parameters related with an active ageing. The results have been validated in collaboration with the folowing Senior centers in Cordoba (Spain): Córdoba II C.P.A., Córdoba los Naranjos C.P.A., Córdoba Poniente C.P.A., Córdoba la Fuensanta C.P.A.
+
 
 ## Getting Started
 
