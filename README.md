@@ -1,6 +1,6 @@
 # Smart Cane
 
-Smart-cane is an open hardware and open software project created to promoting an active ageing. This project was created on [Integrated Systems Engineering group](www.grupoisis.uma.es/), on Department of Electronic Technology (Malaga University). Nowadays, it is carried out at MDH University at the [Biomedical Engineering group](http://www.es.mdh.se/research-groups/32-Biomedical_Engineering).
+Smart-cane is an open hardware and open software project created to promoting an active ageing. This project was created on [Integrated Systems Engineering group](www.grupoisis.uma.es/), on Department of Electronic Technology (Malaga University). Nowadays, it is carried out at MDH University at the [Biomedical Engineering group](http://www.es.mdh.se/research-groups/32-Biomedical_Engineering) in collaboration with [Integrated Systems Engineering group](www.grupoisis.uma.es/).
 
 This project is led by [Dr. Ballesteros](https://www.researchgate.net/profile/Joaquin_Ballesteros) and it counts with the help of [M.Sc. Alberto Tudela](https://duma.uma.es/duma/buscador/persona/535571bb-1da1-4cbd-a49a-7b0d61c4cd2d/), [B.Sc. Juan Caro](...) and the support of [Prof. Dr. Cristina Urdiales](https://www.researchgate.net/profile/Cristina_Urdiales2) and [Prof. Dr. Maria Lindén](http://www.es.mdh.se/staff/114-Maria_Lind__n).
 
