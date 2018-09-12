@@ -11,27 +11,7 @@ This project is focused on adding on-board sensors to the cane to monitor users.
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Installing
 
-A step by step series of examples that tell you how to get a development env running.
-
-== Hardware ==
-
-== Software ==
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Running the tests
 
@@ -58,10 +38,11 @@ Give an example
 Add additional notes about how to deploy this on a live system
 
 ## Built With
+* [Fusion 360](https://www.autodesk.com/products/fusion-360/overview) - The program used to to design the plastic pieces. All these documents have been exported to STEP file extension too. It is an ISO standard exchange format that can be openned by other programs. 
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [MBED online compiler](https://os.mbed.com/handbook/mbed-Compiler) - The online program used to to programming the BLE nano v1 microcontroller. 
+
+* [Andriod Studio](https://developer.android.com/studio/) - The program to create the mobile software.
 
 ## Contributing
 
@@ -73,9 +54,11 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Joaquín Ballesteros** - *Team leader; Desing and Programming* - [joaquinballesteros](https://github.com/joaquinballesteros)
+* **Alberto Tudela** - *Electronic and 3D printer* - [ajtudela](https://github.com/ajtudela)
+* **Alberto Tudela** - *Electronic and Software* - [jrcaro](https://github.com/jrcaro)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project. Contact: joaquin.ballesteros@mdh.se
 
 ## License
 
