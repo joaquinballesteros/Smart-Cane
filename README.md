@@ -8,7 +8,7 @@ This project is focused on adding on-board sensors to the cane to monitor users.
 
 
 ## Built With
-* [Fusion 360](https://www.autodesk.com/products/fusion-360/overview) - The program used to to design the plastic pieces. All these documents have been exported to STEP file extension too. It is an ISO standard exchange format that can be openned by other programs. 
+* [Fusion 360](https://www.autodesk.com/products/fusion-360/overview) - The program used to to design the plastic pieces. All these documents have been exported to STEP file extension too. It is an ISO standard exchange format that can be openned by other programs, such as [FreeCAD](https://github.com/FreeCAD/FreeCAD)
 
 * [MBED online compiler](https://os.mbed.com/handbook/mbed-Compiler) - The online program used to to programming the BLE nano v1 microcontroller. 
 
@@ -18,9 +18,9 @@ This project is focused on adding on-board sensors to the cane to monitor users.
 
 * **Joaquín Ballesteros** - *Team leader, design and programming* - [joaquinballesteros](https://github.com/joaquinballesteros)
 * **Alberto Tudela** - *Electronic and 3D models* - [ajtudela](https://github.com/ajtudela)
-* **Alberto Tudela** - *Electronic and software* - [jrcaro](https://github.com/jrcaro)
+* **Juan Caro** - *Electronic and software* - [jrcaro](https://github.com/jrcaro)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project. Contact: joaquin.ballesteros@mdh.se
+Contact: joaquin.ballesteros@mdh.se
 
 ## Contributors
 
