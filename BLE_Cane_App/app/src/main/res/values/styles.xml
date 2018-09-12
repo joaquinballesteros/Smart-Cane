@@ -1,0 +1,48 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.Design.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primaryDark</item>
+        <!-- texto del input text-->
+        <item name="android:textColorPrimary">@android:color/black</item>
+        <!-- color del cursor, linea y etiqueta de los EditText-->
+        <item name="colorAccent">@color/primary</item>
+    </style>
+
+    <!--Etiqueta flotante-->
+    <style name="AppTheme.FloatingLabel" parent="@android:style/TextAppearance">
+        <item name="android:textColor">@color/teal</item>
+        <item name="android:textSize">@dimen/floating_label</item>
+    </style>
+
+    <!--Campo de texto-->
+    <style name="AppTheme.EditText" parent="AppTheme">
+        <!-- cursor y línea normal-->
+        <item name="colorControlNormal">@color/indigo</item>
+        <!-- cursor y línea con foco-->
+        <item name="colorControlActivated">@color/teal</item>
+    </style>
+
+    <!-- mensaje de error debajo del EditText-->
+    <style name="AppTheme.EditTextError" parent="@android:style/TextAppearance">
+        <item name="android:textColor">@color/orange</item>
+        <item name="android:textSize">@dimen/error</item>
+    </style>
+
+    <style name="AppTheme.CharacterCounter" parent="TextAppearance.AppCompat.Small">
+        <item name="android:textColor">@color/teal</item>
+    </style>
+
+    <!-- AlertDialog text color fix thanks to Shawn Castrianni, see: http://groups.google.com/group/android-developers/browse_thread/thread/f0b34621d3a70c4b -->
+    <!--<style name="AppTheme.DialogLight" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@color/whitegrey</item>
+        <item name="android:textColor">@color/black</item>
+    </style>-->
+
+    <style name="AccentButton" parent="ThemeOverlay.AppCompat.Dark">
+        <item name="colorAccent">@color/primary</item>
+    </style>
+
+</resources>

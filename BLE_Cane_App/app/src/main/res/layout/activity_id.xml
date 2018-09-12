@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".IdActivity">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?attr/colorPrimary"
+        android:elevation="@dimen/elevation_toolbar"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        tools:ignore="UnusedAttribute"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        android:layout_marginRight="@dimen/activity_horizontal_margin"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:descendantFocusability="beforeDescendants"
+        android:focusableInTouchMode="true"
+        android:orientation="vertical">
+
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/text_input_layout_id"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/form_margin_top"
+            android:hint="@string/id"
+            app:errorTextAppearance="@style/AppTheme.EditTextError">
+
+            <android.support.design.widget.TextInputEditText
+                android:id="@+id/editTextId"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="numberDecimal"
+                android:text=""/>
+
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/text_input_layout_age"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/form_margin_top"
+            android:hint="@string/age"
+            app:errorTextAppearance="@style/AppTheme.EditTextError">
+
+            <android.support.design.widget.TextInputEditText
+                android:id="@+id/editTextAge"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="numberDecimal"/>
+
+        </android.support.design.widget.TextInputLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="20dp">
+
+            <TextView
+                android:id="@+id/gender_textview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingRight="35dp"
+                android:text="@string/hint_gender"
+                android:textSize="20dp"/>
+            <RadioGroup
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/gender_textview"
+                android:orientation="horizontal"
+                >
+                <RadioButton
+                    android:id="@+id/male_radio_btn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/male"/>
+                <RadioButton
+                    android:id="@+id/female_radio_btn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text = "@string/female"/>
+            </RadioGroup>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="20dp">
+            <TextView
+                android:id="@+id/lat_textview"
+                android:paddingRight="15dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/hint_laterality"
+                android:textSize="20dp"/>
+            <RadioGroup
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/lat_textview"
+                android:orientation="horizontal"
+                >
+                <RadioButton
+                    android:id="@+id/right_radio_btn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/right"/>
+                <RadioButton
+                    android:id="@+id/left_radio_btn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text = "@string/left"/>
+            </RadioGroup>
+        </RelativeLayout>
+
+        <Button
+            android:id="@+id/buttonValidate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/form_margin_top"
+            android:text="@string/save"
+            android:theme="@style/AccentButton"/>
+
+        <Button
+            android:id="@+id/buttonActivity"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/form_margin_top"
+            android:text="@string/activity"
+            android:theme="@style/AccentButton"/>
+
+        <Button
+            android:id="@+id/buttonRaw"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/form_margin_top"
+            android:text="@string/raw"
+            android:theme="@style/AccentButton"
+            />
+
+
+    </LinearLayout>
+</LinearLayout>

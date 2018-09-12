@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="genre">
+        <item>Female</item>
+        <item>Male</item>
+    </string-array>
+
+    <string-array name="laterality">
+        <item>Right</item>
+        <item>Left</item>
+    </string-array>
+</resources>

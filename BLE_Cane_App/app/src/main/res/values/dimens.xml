@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="form_margin_top">14dp</dimen>
+    <dimen name="elevation_toolbar">4dp</dimen>
+    <dimen name="error">13sp</dimen>
+    <dimen name="floating_label">13sp</dimen>
+</resources>
