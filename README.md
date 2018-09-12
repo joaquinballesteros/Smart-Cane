@@ -54,9 +54,9 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Joaquín Ballesteros** - *Team leader; Desing and Programming* - [joaquinballesteros](https://github.com/joaquinballesteros)
-* **Alberto Tudela** - *Electronic and 3D printer* - [ajtudela](https://github.com/ajtudela)
-* **Alberto Tudela** - *Electronic and Software* - [jrcaro](https://github.com/jrcaro)
+* **Joaquín Ballesteros** - *Team leader, design and programming* - [joaquinballesteros](https://github.com/joaquinballesteros)
+* **Alberto Tudela** - *Electronic and 3D models* - [ajtudela](https://github.com/ajtudela)
+* **Alberto Tudela** - *Electronic and software* - [jrcaro](https://github.com/jrcaro)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project. Contact: joaquin.ballesteros@mdh.se
 
