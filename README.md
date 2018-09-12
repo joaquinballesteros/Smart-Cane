@@ -11,15 +11,13 @@ This project is focused on adding on-board sensors to the cane to monitor users.
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Prerequisites
-An editor to make modification to the plastic frame for the microcontroller and sensors. 
-```
-Give examples
-```
-
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
+A step by step series of examples that tell you how to get a development env running.
+
+== Hardware ==
+
+== Software ==
 
 Say what the step will be
 
