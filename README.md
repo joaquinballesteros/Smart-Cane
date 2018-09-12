@@ -7,36 +7,6 @@ The project is led by [Dr. Ballesteros](https://www.researchgate.net/profile/Joa
 This project is focused on adding on-board sensors to the cane to monitor users. These sensors should be affordable in order to reduce the cost and to increase the number of end users. Force sensors and hall effect sensors are being testing to measure the weight-bearing and other significant parameters related with an active ageing. The results are been validated in collaboration with the following Senior centres (Centros de participación activa) in Cordoba (Spain): CÓRDOBA II, FUENSANTA – CAÑERO, PONIENTE, LOS NARANJOS.
 
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
 ## Built With
 * [Fusion 360](https://www.autodesk.com/products/fusion-360/overview) - The program used to to design the plastic pieces. All these documents have been exported to STEP file extension too. It is an ISO standard exchange format that can be openned by other programs. 
 
@@ -48,9 +18,6 @@ Add additional notes about how to deploy this on a live system
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
@@ -60,13 +27,17 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project. Contact: joaquin.ballesteros@mdh.se
 
+## Contributors
+
+* Swedish Knowledge Foundation (KKS) through the research profile [Embedded Sensor Systems for Health at Mälardalen University](https://www.mdh.se/forskning/inriktningar/inbyggda-system/ess-h?l=en_UK), Sweden - [Prof. Dr. Maria Lindén](http://www.es.mdh.se/staff/114-Maria_Lind__n).
+
+* [Plan Propio de la Universidad de Malaga (Proyectos Puente)](https://www.uma.es/servicio-de-investigacion/cms/menu/plan-propio-de-investigacion/?set_language=en) at Malaga University, Spain -  [Prof. Dr. Cristina Urdiales](https://www.researchgate.net/profile/Cristina_Urdiales2).
+
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the Creative Commons Attribution 4.0 - see the [LICENSE.md](https://github.com/joaquinballesteros/Smart-Cane/blob/master/LICENSE) file for details
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+The authors would like to thank to [Ms. Luna Ruiz](http://lunakageyama.blogspot.com/) who greatly assisted every single test.
 
