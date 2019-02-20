@@ -37,3 +37,6 @@ This project is licensed under the Creative Commons Attribution 4.0 - see the [L
 
 The authors would like to thank to [Ms. Luna Ruiz](http://lunakageyama.blogspot.com/) who greatly assisted every single test.
 
+## Publications
+Ballesteros, Joaquin, Alberto Tudela, Juan Rafael Caro-Romero, and Cristina Urdiales. "*Weight-Bearing Estimation for Cane Users by Using Onboard Sensors*" Sensors 19, no. 3 (2019): 509 [link](https://www.mdpi.com/1424-8220/19/3/509/htm)
+
