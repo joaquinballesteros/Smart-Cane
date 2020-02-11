@@ -38,5 +38,12 @@ This project is licensed under the Creative Commons Attribution 4.0 - see the [L
 The authors would like to thank to [Ms. Luna Ruiz](http://lunakageyama.blogspot.com/) who greatly assisted every single test.
 
 ## Publications
-Ballesteros, Joaquin, Alberto Tudela, Juan Rafael Caro-Romero, and Cristina Urdiales. "*Weight-Bearing Estimation for Cane Users by Using Onboard Sensors*" Sensors 19, no. 3 (2019): 509 [link](https://www.mdpi.com/1424-8220/19/3/509/htm)
+Ballesteros, J., Tudela, A., Caro-Romero, J. R., & Urdiales, C. (2019). Weight-bearing estimation for cane users by using onboard sensors. Sensors, 19(3), 509. [link](https://www.mdpi.com/1424-8220/19/3/509/htm)
+
+Ballesteros, J., Tudela, A., Caro-Romero, J. R., & Urdiales, C. (2019, May). A cane-based low cost sensor to implement attention mechanisms in telecare robots. In 2019 International Conference on Robotics and Automation (ICRA) (pp. 1473-1478). IEEE.[link](https://ieeexplore.ieee.org/document/8794283)
+
+Caro-Romero, J. R., Ballesteros, J., Garcia-Lagos, F., Urdiales, C., & Sandoval, F. (2019, June). A Neural Network for Stance Phase detection in smart cane users. In International Work-Conference on Artificial Neural Networks (pp. 310-321). Springer, Cham.[link](https://link.springer.com/chapter/10.1007/978-3-030-20521-8_26)
+
+Ayala, I., Ballesteros, J., Caro-Romero, J. R., Amor, M., & Fuentes, L. (2019). Self-Adaptation of mHealth Devices: The Case of the Smart Cane Platform. In Multidisciplinary Digital Publishing Institute Proceedings (Vol. 31, No. 1, p. 23).[link](https://www.mdpi.com/2504-3900/31/1/23)
+
 
