@@ -21,7 +21,7 @@ This project is focused on adding on-board sensors to the cane to monitor users.
 * **Alberto Tudela** - *Electronic and 3D models* - [ajtudela](https://github.com/ajtudela)
 * **Juan Caro** - *Electronic and software* - [jrcaro](https://github.com/jrcaro)
 
-Contact: joaquin.ballesteros@mdh.se
+Contact: jballesteros@uma.es
 
 ## Contributors
 
